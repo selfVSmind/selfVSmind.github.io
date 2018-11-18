@@ -1088,7 +1088,7 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1), 0 0 0 1px rgba(10, 10, 10, 0.1);
   color: #757763;
   display: block;
-  padding: 0.5em; }
+  padding: 2em; }
 
 a.box:hover, a.box:focus {
   box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1), 0 0 0 1px #FA7C91; }
@@ -2963,7 +2963,7 @@ a.box:active {
 .notification {
   background-color: whitesmoke;
   border-radius: 4px;
-  padding: 1em;
+  padding: 1.25rem 2.5rem 1.25rem 1.5rem;
   position: relative; }
   .notification a:not(.button) {
     color: currentColor;
@@ -6409,7 +6409,7 @@ label.panel-block {
   padding: 3rem 1.5rem; }
 
 .section {
-  padding: 1em; }
+  padding: 3rem 1.5rem; }
   @media screen and (min-width: 1088px) {
     .section.is-medium {
       padding: 9rem 1.5rem; }
